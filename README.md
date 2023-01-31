@@ -7,7 +7,7 @@ Course goal: To develop a standardized electrical panel for experiments in the U
 
 Students:  Erika Fuhrmann, Matt Gerona, George Ritter, and Klayton Schott
 
-Advised by Professors Dave Henthorn and Atanas Serbezov
+Advised by Professors [Dave Henthorn](https://henthornlab.org) and Atanas Serbezov
 
 
 ![Picture 1](https://raw.githubusercontent.com/henthornlab/enclosure2023/main/1.jpeg)
