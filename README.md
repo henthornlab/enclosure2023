@@ -3,10 +3,12 @@
 CHE 490 Project 2023 - Electrical Panel Design
 
 
-![Drag](https://raw.githubusercontent.com/henthornlab/enclosure2023/main/1.jpeg)
+![1](https://raw.githubusercontent.com/henthornlab/enclosure2023/main/1.jpeg)
 
-https://raw.githubusercontent.com/henthornlab/enclosure2023/main/2.jpeg
+![2](https://raw.githubusercontent.com/henthornlab/enclosure2023/main/2.jpeg)
 
-https://raw.githubusercontent.com/henthornlab/enclosure2023/main/3.jpeg
+![3](https://raw.githubusercontent.com/henthornlab/enclosure2023/main/3.jpeg)
 
-https://raw.githubusercontent.com/henthornlab/enclosure2023/main/4.jpeg
+![4](https://raw.githubusercontent.com/henthornlab/enclosure2023/main/4.jpeg)
+
+
