@@ -19,7 +19,7 @@ Advised by Professors [Dave Henthorn](https://henthornlab.org) and Atanas Serbez
 
 ---
 
-#And behold, all green lights!
+## And behold, all green lights!
 
 
 ![Picture 5](https://raw.githubusercontent.com/henthornlab/enclosure2023/main/5.jpeg)
